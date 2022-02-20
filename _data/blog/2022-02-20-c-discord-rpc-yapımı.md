@@ -4,7 +4,7 @@ path: /DiscordRPC
 date: 2022-02-20T21:03:36.023Z
 title: 'C# Discord RPC Yapımı'
 metaDescription: eqwewqeqwqew
-thumbnail: ''
+thumbnail: /assets/755729.jpg
 ---
 ```
         [DllImport("discord-rpc-w32.dll", CallingConvention = CallingConvention.Cdecl, EntryPoint = "Discord_Initialize")]
